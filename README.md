@@ -1,1 +1,5 @@
-# DS-Capstone-IBM
+# DS-Capstone-
+
+$ git pull
+
+$ git checkout -b [branchmaster]
